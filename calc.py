@@ -9,7 +9,7 @@ def value_reset():
     st.session_state.num1 = ''
     st.session_state.num2 = ''
 
-st.title("Calculator")
+st.title(" Calculator ...")
 
 num1 = st.text_input("Enter the first number", key='num1')
 
